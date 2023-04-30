@@ -5,7 +5,7 @@
   "manifest_version": 3,
   "permissions": ["activeTab"],
   "action": {
-    "default_popup": "index.html",
+    "default_popup": "extension.html",
     "default_icon": {
       "32": "icon.png"
     }
